@@ -1,2 +1,2 @@
 # TrafficLightDemo-Java
-TrafficLightDemo program in Apache Netbeans
+TrafficLightDemo program in Java Apache Netbeans
